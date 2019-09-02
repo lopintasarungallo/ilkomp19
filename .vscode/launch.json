@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "pembelajaran_f7370a73"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LuasLingkaran",
+            "request": "launch",
+            "mainClass": "LuasLingkaran",
+            "projectName": "pembelajaran_f7370a73"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - latihan",
+            "request": "launch",
+            "mainClass": "latihan",
+            "projectName": "pembelajaran_f7370a73"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Laihan",
+            "request": "launch",
+            "mainClass": "Laihan"
+        }
+    ]
+}
