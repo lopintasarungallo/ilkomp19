@@ -10,7 +10,8 @@ public static void main(String[] args) {
     double hasil = Math.PI*Math.pow(r, 2); 
     double hasil2 = 2*Math.PI*r;
 
-    System.out.printtf("Luas lingkaran= %.2f" , hasil);
-    System.out.printtf(" ");
-    System.out.printtf("Keliling lingkaran %.2f" , hasil2);
+    System.out.printf("Luas lingkaran= %.2f" , hasil);
+    System.out.printf(" ");
+    System.out.printf("Keliling lingkaran %.2f" , hasil2);
+}
 }
