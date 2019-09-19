@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TPratikum1",
+            "request": "launch",
+            "mainClass": "TPratikum1",
+            "projectName": "pembelajaran_f7370a73"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelembarUang",
+            "request": "launch",
+            "mainClass": "SelembarUang",
+            "projectName": "pembelajaran_f7370a73"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prak01",
+            "request": "launch",
+            "mainClass": "Prak01",
+            "projectName": "pembelajaran_f7370a73"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan3",
+            "request": "launch",
+            "mainClass": "Latihan3",
+            "projectName": "pembelajaran_f7370a73"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - fibonacci",
             "request": "launch",
             "mainClass": "fibonacci",

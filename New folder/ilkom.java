@@ -9,7 +9,7 @@ public class ilkom
         int umur = (tahunSekarang+bulanSekarang)-(tahunLahir+bulanLahir);
         int umurTahun = umur/12;
 
-        System.out.println("umur = " + umurTahun +" lebih bulan = "umur%12);
+        System.out.println("umur = " + umurTahun +" lebih bulan = " + umur%12);
 
     }
 }

@@ -8,7 +8,7 @@ class LatihanMod{
         int b = sc.nextInt();
         int hasil = a%b;
         int sum = 2;
-        sum += 1; // sum = sum +1
+        sum += 1; // sum = sum +1;
         sum/=sum;
 
         System.out.println("Hasil" +hasil);
